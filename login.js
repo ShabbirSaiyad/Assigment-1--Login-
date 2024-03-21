@@ -21,7 +21,7 @@ myForm.addEventListener('submit', function(event) {
     alert("Form data submitted successfully");
     username.value="";
     password.value="";
-    window.location.href="/dashboard.html";
+    window.location.href="www.google.com";
 
     event.preventDefault(); 
 });
