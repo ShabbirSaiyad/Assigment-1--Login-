@@ -20,6 +20,7 @@ a{
     justify-content: center;
     align-items: center;
     border-radius: 6px;
+    width:600px;
 
     
 
@@ -37,9 +38,10 @@ input::placeholder, textarea::placeholder {
 }
 .takeInput{
     border-radius: 4px;
-    padding: 5px;
+    padding: 12px;
     outline: none;
-    border:none
+    border:none;
+    width: 265px;
 }
 .loginBtn{
     background-color:#555555;
