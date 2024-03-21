@@ -1,4 +1,3 @@
-
 function setCookies(username, password,expirydays){
     const d = new Date();
     d.setTime(d.getTime() + (expirydays*24*60*60*1000));
